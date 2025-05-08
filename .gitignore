@@ -1,0 +1,13 @@
+
+#Ignore Files from V1
+BluePrint.png
+
+FinancialMarketData.xlsx
+
+FinancialRecommendations.xlsx
+
+# Ignore all .zip files (including in subfolders)
+*.zip
+
+# Ignore all .ini files (including in subfolders)
+*.ini
